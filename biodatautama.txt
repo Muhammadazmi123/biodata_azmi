@@ -5,7 +5,7 @@ TTL         : Bandung,06 Maret 2005
 JK          : Laki - laki
 Hobi        : Futsal.Bermain game,badminton,pingpong,renang.
 cita-cita   : Programmer
-Riwayat pendidikan : - TK ANNIMAH
+riwayat pendidikan : - TK ANNIMAH
                      - MI AL ISHLAH
-                     - SMPN 33
-                     - SMK Prakarya Internasional
+                     - SMP 33
+                     - SMK PI
